@@ -1,0 +1,4 @@
+[19:33:06] --- INICIANDO RITUAL DE REVISÃO ---
+[19:33:06] Iniciando busca de dados na API...
+[19:33:07] Sucesso! Planilha gerada: c:\Users\USER\Desktop\Projeto_Robo\Relatorio_Final_Revisao.xlsx
+[19:33:07] --- FIM DO PROCESSO DE REVISÃO ---

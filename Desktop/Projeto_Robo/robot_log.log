@@ -1,0 +1,2 @@
+ERROR:root:2026-03-04 20:06:38.846362 - Erro na API: 410 Client Error: Gone for url: https://api.exemplo.com/v1/data
+2026-03-19 14:04:31,756 - INFO - Arquivo gerado: relatorio_2026-03-19_14-04.xlsx
